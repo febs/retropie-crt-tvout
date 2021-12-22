@@ -1,1 +1,6 @@
-beta/
+# log di emulationstation
+**/es_log.txt*
+# playlist di retroarch
+**/*.lpl 
+# default di retropie
+**/*.rp-dist 
